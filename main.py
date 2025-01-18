@@ -5,7 +5,7 @@ for character in "VIVIAN":
     print(character)
 
 foods = ["RICE", "BEANS", "YAM"]
-adj = ["carbohydrate", "protein", "carbohydrate"]
+adj = ["healthy", "nutritious", "good for the body"]
 
 for m in foods:
     print()
